@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    color: #fff;
+     background: rgb(18,94,207);
+background: linear-gradient(90deg, rgb(16, 86, 190) 0%, rgb(67, 215, 235) 82%); 
+}
+h1,p{
+    text-align: center;
+}
+ul{
+    width: 500px;
+    margin: 0 auto;
+}
+.italic{
+    font-style: italic;
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}
